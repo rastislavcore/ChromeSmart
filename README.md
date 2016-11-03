@@ -1,2 +1,2 @@
-# GoogIeSmart
-Google starter for Mac without cache
+# ChromeSmart
+GoogIe Chrome starter for Mac without cache
