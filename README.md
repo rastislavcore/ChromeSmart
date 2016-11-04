@@ -7,3 +7,8 @@ Adding a custom app icon
 2. Right-click the .app file of which you want to change the icon and select “Get Info” (or select the file and press ⌘ + I).
 3. Select the app icon in the top left corner by clicking it once. It will get a subtle blue outline if you did it right.
 4. Now hit ⌘ + V (paste) to overwrite the default icon with the new one.
+
+### Donations ###
+Feel free to donate some bitcoins if my work is helpful to you: [1BqkpaebQyTZh17cfd2XzR5zY9Mvc1FEbj](http://vasicka.eu/coin/btc.php?label=ClearMyMac)
+
+Thank you!
