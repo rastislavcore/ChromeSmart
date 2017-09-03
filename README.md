@@ -9,6 +9,6 @@ Adding a custom app icon
 4. Now hit ⌘ + V (paste) to overwrite the default icon with the new one.
 
 ### Donations ###
-Feel free to donate some bitcoins if my work is helpful to you: [1BqkpaebQyTZh17cfd2XzR5zY9Mvc1FEbj](http://vasicka.eu/coin/btc.php?label=ChromeSmart)
+Feel free to donate some bitcoins if my work is helpful to you: [3JF1jmwC3nFahoWKXwTtcXQZQC9CTHhSMY](https://link.btc.horse/?message=ChromeSmart#3JF1jmwC3nFahoWKXwTtcXQZQC9CTHhSMY)
 
 Thank you!
